@@ -1,14 +1,3 @@
+theme: jekyll-theme-hacker
 title: Kyle Wiliams — Portfolio
-description: Cloud Architect and Cybersecurity by Phifyre LLC.
-url: https://keambi.github.io/portfolio
-baseurl: ""  # Leave empty since you’re publishing from the repo root
-
-theme: jekyll-theme-hacker  # Apply the Hacker theme
-
-author: Kyle Wiliams
-github_username: keambi
-
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+description: Cloud security and training portfolio
