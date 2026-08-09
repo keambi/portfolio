@@ -21,12 +21,14 @@ Cloud and cybersecurity educator with over 11 years of experience designing and 
 ## Certifications
 ### Microsoft
 - Microsoft Certified Trainer (MCT)  
-- Azure Solutions Architect Expert  
-- Cybersecurity Architect Expert  
-- Azure Security Engineer Associate  
-- Azure Network Engineer Associate
+- Solutions Architect   
+- Cybersecurity Architect 
+- Agentic AI Business Solutions Architect  
+- Information Security Administrator
+- Azure AI Apps and Agents Developer
+- Azure Network Engineer 
 - Azure Administrator
-- AI Engineer
+- Cloud and AI Security Engineer
 
 ### Cloud Security Alliance
 - Trusted AI Safety Expert (TAISE)  
@@ -41,5 +43,5 @@ Cloud and cybersecurity educator with over 11 years of experience designing and 
 
 ## Education
 - **University of Arizona Global Campus**  
-  Bachelor of Science in Cyber & Data Security (Dean’s List, GPA 3.62)
+  Bachelor of Science in Cyber & Data Security (Cum Laude, GPA: 3.62)
 
